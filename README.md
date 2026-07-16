@@ -1,70 +1,89 @@
-# Getting Started with Create React App
+# Fashion & Beauty Forum
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive community platform frontend developed during my Software Developer Internship at MindfulAI Technologies.
 
-## Available Scripts
+The platform allows users to explore fashion trends, beauty discussions and skincare content through a structured community interface.
 
-In the project directory, you can run:
+## My Role
 
-### `npm start`
+I worked as a Frontend Developer and UI/UX Designer as part of a development team.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+My contributions included:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Researching existing fashion and beauty community platforms
+- Planning page layouts and user flows
+- Designing responsive interface components
+- Developing authentication screens
+- Building discussion-board layouts
+- Creating thread and comment interfaces
+- Developing user-profile screens
+- Supporting REST API integration workflows
+- Testing responsiveness and improving interface consistency
+- Presenting progress during review sessions
 
-### `npm test`
+This was a collaborative internship project. My primary contribution focused on frontend development, UI/UX design, testing and iteration based on team feedback.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Key Screens
 
-### `npm run build`
+### Home Page
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Home Page](docs/home-page.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Login Page
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Login Page](docs/login-page.png)
 
-### `npm run eject`
+### Discussion Board
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Discussion Board](docs/dsicuss-page.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Thread View
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Thread View](docs/topic-page.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### User Profile
 
-## Learn More
+![User Profile](docs/user-page.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Features
 
-### Code Splitting
+- Responsive navigation
+- Login and registration interfaces
+- Fashion and beauty category discovery
+- Discussion-board interface
+- Thread and nested-comment views
+- User-profile interface
+- Like and social-interaction flows
+- Mobile-responsive layouts
+- Loading, error and empty states
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Technology Stack
 
-### Analyzing the Bundle Size
+- React
+- JavaScript / TypeScript
+- Tailwind CSS
+- Axios
+- REST APIs
+- JWT authentication workflow
+- Git and GitHub
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Internship Context
 
-### Making a Progressive Web App
+This project was developed during my remote internship at MindfulAI Technologies.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+The internship involved:
 
-### Advanced Configuration
+- Requirement discussions
+- Wireframe reviews
+- Frontend implementation
+- Team feedback sessions
+- Responsive testing
+- Final project demonstration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Running the Project Locally
 
-### Deployment
+### 1. Clone the repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone <repository-clone-url>
