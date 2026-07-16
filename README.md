@@ -27,23 +27,23 @@ This was a collaborative internship project. My primary contribution focused on 
 
 ### Home Page
 
-![Home Page](docs/home-page.png)
+![Home Page](doc/home-page.png)
 
 ### Login Page
 
-![Login Page](docs/login-page.png)
+![Login Page](doc/login-page.png)
 
 ### Discussion Board
 
-![Discussion Board](docs/dsicuss-page.png)
+![Discussion Board](doc/dsicuss-page.png)
 
 ### Thread View
 
-![Thread View](docs/topic-page.png)
+![Thread View](doc/topic-page.png)
 
 ### User Profile
 
-![User Profile](docs/user-page.png)
+![User Profile](doc/user-page.png)
 
 
 ## Features
